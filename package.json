@@ -1,0 +1,25 @@
+{
+  "name": "websocketrelay",
+  "version": "1.0.0",
+  "description": "A server for connecting multiple ComputerCraft computers together over a",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingbutter/ccrelay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingbutter/ccrelay/issues"
+  },
+  "homepage": "https://github.com/codingbutter/ccrelay#readme",
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "uuidv4": "^6.2.12",
+    "ws": "^8.4.2"
+  }
+}
